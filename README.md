@@ -20,3 +20,7 @@ https://github.com/Anarchist-xxxx/Crawlia/releases
 
 ## くれじっと
 This software includes the work that is distributed in the Apache License 2.0
+
+このソフトウェアは  以下のサイトのライブラリを使用しています  
+アナル＊Wiki  
+http://anarchyunchi.ml/  
