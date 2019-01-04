@@ -23,10 +23,11 @@ public class TaskTray implements Runnable {
     public void run() {
         try {
             //アイコンの用意！
-            //BufferedImage image = ImageIO.read(new File("icon.png")); これはローカル用
+            //BufferedImage image = ImageIO.read(new File("icon.png")); //これはローカル用
             BufferedImage image = ImageIO.read(getClass().getResource("/icon.png")); //これはjarのとき
             TrayIcon icon = new TrayIcon(image);
             icon.setImageAutoSize(true);
+
 
             //メニューつくる
             PopupMenu menu = new PopupMenu();
