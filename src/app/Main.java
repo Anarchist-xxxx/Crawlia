@@ -1,11 +1,11 @@
 package app;
 
-import app.Frame;
 import javafx.application.Application;
 import javafx.application.Platform;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
 import javafx.scene.Scene;
+import javafx.scene.image.Image;
 import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
 
@@ -26,6 +26,15 @@ public class Main extends Application{
         controller.runPandoLiA();
 
         primaryStage.setTitle("Clawlia");
+
+        //アイコンを設定するよ
+        try {
+            Image icon = new Image(getClass().getResourceAsStream("/icon.png"));
+            primaryStage.getIcons().add(icon);
+        } catch(Exception e ) {
+            e.printStackTrace();
+        }
+
         primaryStage.setScene(new Scene(root));
         Platform.setImplicitExit(false);
 
