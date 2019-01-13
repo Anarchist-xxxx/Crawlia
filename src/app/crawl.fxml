@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="50.0" minWidth="50.0" prefHeight="450.0" prefWidth="850.0" style="-fx-background-color: #0b0623;" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <HBox layoutX="158.0" layoutY="117.0" prefHeight="450.0" prefWidth="850.0" AnchorPane.bottomAnchor="10.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+         <children>
+            <VBox prefHeight="410.0" prefWidth="235.0">
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+               <children>
+                  <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #715384;">
+                     <children>
+                        <Label layoutX="10.0" layoutY="2.0" prefHeight="16.0" prefWidth="216.0" text="ごらく部ニコ生29分前です" textFill="WHITE" AnchorPane.bottomAnchor="24.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="13.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER_RIGHT" layoutX="-10.0" layoutY="28.0" prefHeight="17.0" prefWidth="240.0" text="1547119890" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="28.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="見ろよ" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="1" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="お願い致します、は？" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="2" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="【2019-01-10 21:00開始】「ゆるゆり、」発表記念　七森中☆ごらく部　生放送！http://nico.ms/lv317596712?cp_webto=share_others_iosapp" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="3" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="みろぉらぁ！" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="4" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="誰が出るの" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="5" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="陣内智則" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="6" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="ゆるゆりやっとるやん！見よ！（陣内）" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="7" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="はあ？" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="8" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="なもり出ないなら見ませんよ" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="9" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+               </children>
+            </VBox>
+            <VBox prefHeight="410.0" prefWidth="235.0">
+               <children>
+                  <AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #715384;">
+                     <children>
+                        <Label layoutX="10.0" layoutY="2.0" prefHeight="16.0" prefWidth="216.0" text="ごらく部ニコ生29分前です" textFill="WHITE" AnchorPane.bottomAnchor="24.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="10.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="13.0" />
+                           </font>
+                        </Label>
+                        <Label alignment="CENTER_RIGHT" layoutX="-10.0" layoutY="28.0" prefHeight="17.0" prefWidth="240.0" text="1547119890" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="28.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="見ろよ" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="1" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="お願い致します、は？" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="2" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="【2019-01-10 21:00開始】「ゆるゆり、」発表記念　七森中☆ごらく部　生放送！http://nico.ms/lv317596712?cp_webto=share_others_iosapp" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="3" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="みろぉらぁ！" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="4" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="誰が出るの" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="5" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="陣内智則" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="6" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="ゆるゆりやっとるやん！見よ！（陣内）" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="7" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="はあ？" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="8" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+                  <AnchorPane prefHeight="50.0" prefWidth="240.0" style="-fx-background-color: #110c49;">
+                     <children>
+                        <Label layoutX="14.0" layoutY="17.0" prefHeight="17.0" prefWidth="212.0" text="なもり出ないなら見ませんよ" textFill="#eeeeee" AnchorPane.bottomAnchor="17.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" AnchorPane.topAnchor="17.0" />
+                        <Label alignment="CENTER_RIGHT" layoutX="80.0" layoutY="32.0" prefHeight="17.0" prefWidth="240.0" text="9" textAlignment="RIGHT" textFill="#cccccc" AnchorPane.bottomAnchor="4.0" AnchorPane.leftAnchor="10.0" AnchorPane.rightAnchor="10.0" AnchorPane.topAnchor="30.0">
+                           <font>
+                              <Font name="03SmartFontUI" size="11.0" />
+                           </font>
+                        </Label>
+                     </children>
+                  </AnchorPane>
+               </children>
+               <HBox.margin>
+                  <Insets bottom="10.0" left="10.0" right="10.0" top="10.0" />
+               </HBox.margin>
+            </VBox>
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
